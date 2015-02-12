@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spinningRedBattery.png">
+	<!-- Created with Adobe Flash Professional version 14.0.0.110 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="redBattery0000" x="2" y="2" width="508" height="794" pivotX="260.45" pivotY="434" frameX="0" frameY="-21" frameWidth="508" frameHeight="846"/>
+	<SubTexture name="redBattery0001" x="512" y="2" width="359" height="794" frameX="-81" frameY="-21" frameWidth="508" frameHeight="846"/>
+	<SubTexture name="redBattery0002" x="873" y="2" width="195" height="825" frameX="-163" frameY="-21" frameWidth="508" frameHeight="846"/>
+	<SubTexture name="redBattery0003" x="1070" y="2" width="26" height="838" frameX="-247" frameY="0" frameWidth="508" frameHeight="846"/>
+	<SubTexture name="redBattery0004" x="873" y="2" width="195" height="825" frameX="-163" frameY="-21" frameWidth="508" frameHeight="846"/>
+	<SubTexture name="redBattery0005" x="512" y="2" width="359" height="794" frameX="-81" frameY="-21" frameWidth="508" frameHeight="846"/>
+	<SubTexture name="redBattery0006" x="2" y="2" width="508" height="794" frameX="0" frameY="-21" frameWidth="508" frameHeight="846"/>
+</TextureAtlas>
